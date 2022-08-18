@@ -5,7 +5,6 @@ const BotaoConclui = () => {
     botaoConclui.innerText = 'concluir'
 
     botaoConclui.addEventListener('click', concluirTarefa)
-
     return botaoConclui
 
 }
