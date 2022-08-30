@@ -1,2 +1,2 @@
 # alura-ceep
-## Aula manipulação DOM
+## Aula de manipulação DOM
