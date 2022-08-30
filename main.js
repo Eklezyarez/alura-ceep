@@ -9,6 +9,8 @@ const handleNovoItem = (evento) => {
     const input = document.querySelector('[data-form-input]')
     const valor = input.value
 
+    sessionStorage
+
     const calendario = document.querySelector('[data-form-date]')
     const data = moment(calendario.value)
 
