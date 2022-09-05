@@ -46,6 +46,6 @@ export const Tarefa = ({ valor, dataFormatada }) => {
 
 }
 
-const novaTarefa = document.querySelector('[data-form-button]')
+const novaTarefa = document.querySelector('[]')
 
 novaTarefa.addEventListener('click', handleNovoItem)
